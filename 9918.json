@@ -5,7 +5,7 @@
 "warningText":"经典造型提醒：新年快乐-有缘再会｜禁止传播！",  
 "sites":[
 {"key":"一起看 ","name":"经典✂造型┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"广播频道","name":"经典✂｜音乐","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$./广播频道.txt"},
+{"key":"广播频道","name":"经典✂｜音乐","type":3,"api":"./js/live2mv.js","changeable":0,"ext":"广播电台$./list.txt"},
 
 {"key":"drpy_js_豆瓣","name":"经典✂造型|豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_磁力熊搜索","name":"经典✂造型|磁力熊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
